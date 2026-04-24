@@ -1,0 +1,94 @@
+{
+  "logistic_regression": {
+    "accuracy": 0.9803,
+    "precision": 0.9774,
+    "recall": 0.8725,
+    "f1": 0.922,
+    "confusion_matrix": [
+      [
+        963,
+        3
+      ],
+      [
+        19,
+        130
+      ]
+    ],
+    "labels": [
+      "Ham",
+      "Spam"
+    ]
+  },
+  "naive_bayes": {
+    "accuracy": 0.9857,
+    "precision": 0.9716,
+    "recall": 0.9195,
+    "f1": 0.9448,
+    "confusion_matrix": [
+      [
+        962,
+        4
+      ],
+      [
+        12,
+        137
+      ]
+    ],
+    "labels": [
+      "Ham",
+      "Spam"
+    ]
+  },
+  "spam_keywords": [
+    "dating service",
+    "awarded",
+    "latest",
+    "live",
+    "apply",
+    "mob",
+    "stop num",
+    "receive",
+    "orange",
+    "delivery",
+    "num prize",
+    "min",
+    "num claim",
+    "camera",
+    "com",
+    "cs",
+    "msg",
+    "num cash",
+    "games",
+    "landline",
+    "video",
+    "num free",
+    "message",
+    "dating",
+    "contact",
+    "tone",
+    "customer",
+    "chat",
+    "nokia",
+    "urgent",
+    "cash",
+    "ringtone",
+    "prize",
+    "sms",
+    "won",
+    "new",
+    "win",
+    "num num",
+    "stop",
+    "150p",
+    "text",
+    "claim",
+    "uk",
+    "service",
+    "free",
+    "reply",
+    "mobile",
+    "txt",
+    "url",
+    "num"
+  ]
+}
